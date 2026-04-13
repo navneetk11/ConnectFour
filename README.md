@@ -3,13 +3,10 @@
 This project is a GUI-based implementation of the classic **Connect Four game**, developed using **JavaFX** following the **MVC (Model-View-Controller)** architecture and design patterns such as **Command** and **Strategy**.
 
 ---
-https://youtu.be/7G42Y9fuXPg
 ## 🎥 Demo Video
 
 [![Watch the demo](https://img.youtube.com/vi/7G42Y9fuXPg/0.jpg)](https://www.youtube.com/watch?v=7G42Y9fuXPg)
 
-## 📸 Screenshots
-<img width="627" height="867" alt="image" src="https://github.com/user-attachments/assets/9f9f9a16-b0ef-4e38-803a-6f3134228d97" />
 
 
 
